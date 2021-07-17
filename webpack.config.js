@@ -25,7 +25,7 @@ module.exports = {
   },
   plugins: [
     new HtmlWebPackPlugin({
-      titel: 'toy react',
+      title: 'toy react',
       filename: 'index.html',
       template: './index.html'
     })
